@@ -3,3 +3,6 @@ Real time strategy made with A*. I was astonished as I found this project on Git
 
 ![bildschirmfoto 2018-06-20 um 06 16 38](https://user-images.githubusercontent.com/6071528/41697300-71a6db44-7518-11e8-90b5-93e2ba250742.jpg)
 
+Also have a look on my first Youtube video about this project:
+
+https://www.youtube.com/watch?v=CmlYmGJA5lg&t=128s
